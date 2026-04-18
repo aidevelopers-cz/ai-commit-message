@@ -2,7 +2,7 @@
 
 Generuje commit message z `git diff` pomocí LLM (GPT-4o mini).
 
-Praktický příklad promptování pro vývojáře — více v článku [Promptování pro vývojáře — kompletní průvodce](https://aidevelopers.cz/clanky/promptovani-pro-vyvojare-kompletni-pruvodce) na [aidevelopers.cz](https://aidevelopers.cz).
+Praktický příklad promptování pro vývojáře — více v článku [Promptování pro vývojáře — kompletní průvodce](https://www.aidevelopers.cz/clanky/2026-04-19-promptovani-pro-vyvojare-kompletni-pruvodce/) na [aidevelopers.cz](https://www.aidevelopers.cz).
 
 ## Instalace
 
